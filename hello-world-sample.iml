@@ -8,4 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <build>
+    <fileName>hello-world-sample</fileName>
+  </build>
 </module>
